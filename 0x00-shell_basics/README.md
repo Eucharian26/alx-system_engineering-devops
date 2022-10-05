@@ -1,1 +1,1 @@
-Command to copy .html files
+Move files beginning with an uppercase to a directory
