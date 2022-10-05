@@ -1,1 +1,1 @@
-Display file type
+Command to copy .html files
