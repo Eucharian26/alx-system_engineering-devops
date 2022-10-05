@@ -1,1 +1,1 @@
-Delete command
+Directory deletion command
