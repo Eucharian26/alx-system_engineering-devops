@@ -1,1 +1,1 @@
-File-type school.mgc
+Display current directory
