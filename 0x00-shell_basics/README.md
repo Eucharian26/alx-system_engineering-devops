@@ -1,1 +1,1 @@
-Commas not periods
+File-type school.mgc
